@@ -1,5 +1,15 @@
 # Data Warehouse and BigQuery
 
+## Prerequisites
+
+Before working with this BigQuery data warehouse project, you need to complete the following previous projects to ensure the NY taxi data is properly inserted into Google Cloud Platform:
+
+1. [**Data Pipeline Simple**](https://github.com/joaoblasques/data-pipeline-simple) - Basic data pipeline implementation
+2. [**Data Pipeline Orchestration with Airflow**](https://github.com/joaoblasques/data-pipeline-orchestration-airflow) - Airflow-based data orchestration
+3. [**Data Pipeline Orchestration with Kestra**](https://github.com/joaoblasques/data-pipeline-orchestration-kestra) - Kestra-based data orchestration
+
+These projects must be carried out in order for the NY taxi data to be available in BigQuery for the queries and examples demonstrated in this project.
+
 ### Table of contents
 
 - [OLAP vs OLTP](#olap-vs-oltp)
