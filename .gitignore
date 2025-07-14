@@ -1,1 +1,15 @@
 .claude/
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.env
+.venv/
+
+# direnv
+.envrc
